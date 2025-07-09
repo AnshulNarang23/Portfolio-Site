@@ -43,6 +43,11 @@ header {
   gap: 2rem;
 }
 
+.nav-links:hover{
+  text-decoration: underline;
+  transform: translateY(-2px);
+}
+
 .nav-links li {
   font-family: 'Poppins', sans-serif;
 }
